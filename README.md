@@ -11,4 +11,4 @@ All honor for NotTakos.
 
 S-I Client is in Alpha V1.0.0
 
-Made by Social Interactive (https://discord.io/socialint) 
+(Made by Social Interactive (https://discord.io/socialint) 
