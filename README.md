@@ -1,6 +1,8 @@
 # S-I-Client
 Social Interactive Client thanks to NotTaco with Metro-for-Discord
 Alpha TESTING PHASE
+**WARNING** IN ORDER TO USE IT AS A THEME YOU NEED TO ADD .themes AFTER THE NAME OR IT WILL NOT BE SHOWN!
+IT SHOULD LOOK LIKE THIS: S-I_Client.themes.css !!!
 
 Metro-for-Discord: https://github.com/TakosThings/Metro-for-Discord
 
