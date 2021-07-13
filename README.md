@@ -1,16 +1,56 @@
-# S-I-Client
-Social Interactive Client thanks to NotTaco with Metro-for-Discord
-Alpha TESTING PHASE
-**WARNING** IN ORDER TO USE IT AS A THEME YOU NEED TO ADD .themes AFTER THE NAME OR IT WILL NOT BE SHOWN!
-IT SHOULD LOOK LIKE THIS: S-I_Client.themes.css !!!
+# S-I Client (Social Interactive Client)
 
-Metro-for-Discord: https://github.com/TakosThings/Metro-for-Discord
+Welcome to the S-I Client Alpha! We are only in a testing phase and we are just beginning!
+Join the Alpha too here:  [Application Form](https://form.jotform.com/211904697044357)
 
-This is a changed copy of Metro-for-Discord by NotTako. 
-Private use only, do not share with others.
-This Download is private and only available for small groups.
-All honor for NotTakos.
+## Description
 
-S-I Client is in Alpha V1.0.0
+A copied and changed theme for BetterDiscord.
+**ORIGINAL THEME BY [Tako](https://github.com/TakosThings/Metro-for-Discord)
+All honour to him. This Theme has been changed in the code!
 
-(Made by Social Interactive (https://discord.io/socialint) 
+## Getting Started
+
+### Dependencies
+
+* Newest Windows 10 Version (Version	10.0.19043 Build 19043)
+* Newest Discord Version (Stable 89709)
+* Newest BetterDiscord Version injected in Discord (Version 1.2.0)
+
+### Installing
+
+* Download [Discord](https://discord.com)
+* [Download and open BetterDiscord](https://betterdiscord.app)
+* Follow the Instructions on the Download.
+* [Download](https://github.com/CloudX713/S-I-Client/archive/refs/heads/main.zip) the theme.
+* Open Discord, go to settings, scroll down to BetterDiscord, go to Themes and press "Open Themes Folder"
+* Paste S-I_Client.theme.css in the folder (if name is S-I_Client.css, change it to S-I_Client.theme.css)
+* Close the Folder and go back to Discord
+* Activate the Theme
+* Done!
+(A Plugin Pack is available on our [Discord Server](https://discord.io/socialint)!
+
+## Help
+
+Need any help? To hesitate to contact us via the [Discord Server](https://discord.io/socialint).
+Open a ticket in the Suport Category in #ticket.
+
+## Authors
+
+By: Encryit (Encryit#9999) [Server Owner Social Interactive](https://discord.io/socialint)
+Theme Code copy by [Tako](https://github.com/TakosThings)
+
+## Version History
+
+* 1.0.2
+    * Added Icons in Settings to Plugin Repo, Theme Repo
+    * Fixxed typos and other bugs
+* 1.0.0
+    * Initial Release
+
+## Links
+
+Inspiration, code snippets, etc.
+* [Metro-for-Discord](https://github.com/TakosThings/Metro-for-Discord)
+* [Major Helper Redtyper](https://github.com/bartosz789)
+* [Social Interactive](https://discord.io/socialint)
