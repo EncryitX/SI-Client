@@ -31,7 +31,7 @@ All honour to him. This Theme has been changed in the code!
 (A Plugin Pack is available on our [Discord Server](https://discord.io/socialint)!
 
 ## Help
-
+ 
 Need any help? To hesitate to contact us via the [Discord Server](https://discord.io/socialint).
 Open a ticket in the Suport Category in #ticket.
 
