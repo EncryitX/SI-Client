@@ -2,6 +2,9 @@
 
 Welcome to the S-I Client Alpha! We are only in a testing phase and we are just beginning!
 Join the Alpha too here:  [Application Form](https://form.jotform.com/211904697044357)
+If there is any Copyright Problem, I will sadly close this Project, even when we made some other updates.
+Thank you
+Contact me via social.interactive@gmx.net
 
 ## Description
 
@@ -45,7 +48,9 @@ Contributioner:
 [Redtyper](https://github.com/bartosz789) (Major Contributioner)
 
 ## Version History
-
+* 1.1.0
+    * Major Update brought by [TakosThings](https://github.com/TakosThings/Metro-for-Discord/releases/tag/v3.16.0)
+    * Bugfixes and more Plugin Supports.
 * 1.0.2
     * Added Icons in Settings to Plugin Repo, Theme Repo
     * Fixxed typos and other bugs
