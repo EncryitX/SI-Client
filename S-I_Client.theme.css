@@ -5,7 +5,7 @@
  * @description Social Interactive Theme (sample Metro for Discord) thanks to Taco.
  * @source https://github.com/TakosThings/Metro-for-Discord
 */
-/*################## Metro for Discord ####################
+/*############## Social Interactive Client ################
 ## License: CC-BY-NC-SA                                  ##
 ## Repo:    https://github.com/TakosThings               ##
 ####################### Third Party #######################
@@ -122,7 +122,7 @@ textarea {
 }
 .theme-dark .container-2lgZY8::before,
 .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .info-1VyQPT::before {
-  content: "S-I Client \aVersion 1.0.0 Alpha (Testing)";
+  content: "S-I Client \aVersion 1.1.0 Alpha (Testing)";
 }
 
 .theme-dark .container-2lgZY8::before {
