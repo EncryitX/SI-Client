@@ -1,7 +1,7 @@
 /**
  * @name S-I Client Alpha
  * @author Encryit (Tako)
- * @version 1.0.0 Alpha
+ * @version 1.1.0 Alpha
  * @description Social Interactive Theme (sample Metro for Discord) thanks to Taco.
  * @source https://github.com/TakosThings/Metro-for-Discord
 */
@@ -4008,7 +4008,7 @@ body::after,
   line-height: 20px;
 }
 .theme-dark .chat-3bRxxu .backgroundFlash-24qWLN .groupStart-23k01U {
-  margin-top: calc(1.0625rem / 2) !important;
+  margin-top: calc(625rem / 2) !important;
 }
 .theme-dark .chat-3bRxxu :not(.backgroundFlash-24qWLN) .message-2qnXI6:last-child {
   margin-bottom: 1rem;
