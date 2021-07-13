@@ -1,11 +1,11 @@
 /**
  * @name S-I Client Alpha
- * @author Social Interactive
- * @version 1.0.1 Alpha
+ * @author Encryit, Redtyper (Tako)
+ * @version 1.0.2 Alpha
  * @description Social Interactive Theme (sample Metro for Discord) thanks to Tako.
- * @source https://github.com/TakosThings/Metro-for-Discord
+ * @source https://github.com/CloudX713/S-I-Client
 */
-/*################## S-I Client Alpha #####################
+/*################## S-I Client Alpha  ####################
 ## License: CC-BY-NC-SA                                  ##
 ## Repo:    https://github.com/TakosThings               ##
 ####################### Third Party #######################
@@ -15,7 +15,7 @@
 #########################################################*/
 /*                 Start of user options                 ##
 ###########################################################
-##    Sample from Metro for Discord by NotTako           ##
+##     Check the repo wiki for help on this section      ##
 ## https://github.com/TakosThings/Metro-for-Discord/wiki ##
 #########################################################*/
 /* Accent Colour */
@@ -122,7 +122,7 @@ textarea {
 }
 .theme-dark .container-2lgZY8::before,
 .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .info-1VyQPT::before {
-  content: "S-I Client \aVersion 1.0.0 Alpha (Testing)";
+  content: "S-I Client \aVersion 1.0.2 Alpha (Testing)";
 }
 
 .theme-dark .container-2lgZY8::before {
@@ -1108,7 +1108,7 @@ div[class^=bd-].item-PXvHYJ:hover {
 .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ[aria-controls=customcss-tab]::after {
   content: "" !important;
 }
-.theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ[aria-controls=s-tab]::after {
+.theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ[aria-controls=plugins-tab]::after {
   content: "" !important;
 }
 .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ[aria-controls=themes-tab]::after {
@@ -1116,6 +1116,12 @@ div[class^=bd-].item-PXvHYJ:hover {
 }
 .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ[aria-controls=aaa-tab]::after {
   content: "" !important;
+}
+.theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ[aria-controls=pluginrepo-tab]::after {
+  content: '\e8de' !important;
+}
+.theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .sidebar-CFHs9e .item-PXvHYJ[aria-controls=themerepo-tab]::after {
+  content: '\e8a1' !important;
 }
 
 .bd-setting-header label[for=minimalMode]::after {
