@@ -48,6 +48,9 @@ Contributioner:
 [Redtyper](https://github.com/bartosz789) (Major Contributioner)
 
 ## Version History
+* 1.1.6
+    * Button fixed.
+    * Other Bugs fixed and updated Invite/Website.
 * 1.1.0
     * Major Update brought by [TakosThings](https://github.com/TakosThings/Metro-for-Discord/releases/tag/v3.16.0)
     * Bugfixes and more Plugin Supports.
