@@ -1,7 +1,7 @@
 /**
  * @name S-I Client Alpha
  * @author Encryit (Tako)
- * @version 1.1.0 Alpha
+ * @version 1.1.6 Alpha
  * @description Social Interactive Theme (sample Metro for Discord) thanks to Tako.
  * @source https://github.com/SocialInteractive/S-I-Client
  * @website https://discord.io/socialint
@@ -161,7 +161,7 @@ body, button {
 }
 
 .theme-dark .container-2lgZY8::before, .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .info-1VyQPT::before {
-  content: "S-I Client \aVersion 1.1.0 Alpha (Testing)";
+  content: "S-I Client \aVersion 1.1.6 Alpha (Check Github for Updates)";
 }
 
 .theme-dark .container-2lgZY8::before {
