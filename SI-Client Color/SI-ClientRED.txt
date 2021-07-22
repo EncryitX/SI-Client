@@ -1,0 +1,73 @@
+/**
+ * @name S-I Client Alpha
+ * @author Encryit (Tako)
+ * @version 1.1.0 Alpha
+ * @description Social Interactive Theme (sample Metro for Discord) thanks to Taco.
+ * @source https://github.com/SocialInteractive/S-I-Client
+*/
+/*############## Social Interactive Client ################
+## License: CC-BY-NC-SA                                  ##
+## Repo: https://github.com/SocialInteractive/S-I-Client ##
+####################### Third Party #######################
+## hljs:    https://highlightjs.org                      ##
+## icons8:  https://icons8.com                           ##
+## Social Interactive: https://discord.io/socialint      ##
+#########################################################*/
+/*                 Start of user options                 ##
+###########################################################
+##     Need any help with the theme?                     ##
+## Please use the Discord Link and start a Ticket        ##
+#########################################################*/
+/* Accent Colour */
+/* Description: Change the accent colour. Must be provided in RGB format */
+/* Default: Accent is 'Default Blue'. Link is 'Default Blue'. Voice is 'Turf Green' */
+:root {
+  --accent: 0, 0, 0;
+  --link: 232, 22, 22;
+  --voice: 0, 0, 0;
+}
+
+/* Hide Stage Discovery */
+/* Description: Delete this to display the Stage Discovery option in the Home screen. */
+/* Default: The Stage Discovery option is hidden in the Home screen. */
+.channel-2QD9_O[href^="/discovery"] {
+  display: none;
+}
+
+/* Hide Activity Box */
+/* Description: Uncomment to remove the Activity Box displayed above the Voice Connected (RTC) box. */
+/* Default: The Activity panel is not hidden. */
+.activityPanel-28dQGo {
+  /* display: none; */
+}
+
+/* Acrylic background */
+/* Description: Change the background image used to create 'acrylic' effects. */
+/* Default: The default background is a blue/teal/aqua gradient. */
+body,
+.container-16j22k {
+  background-image: url(https://i.imgur.com/aw5DAc1.jpg);
+}
+
+/* Blur filter */
+/* Description: Uncomment to enable the blur filter. This may be useful for custom backgrounds. */
+/* Warning: May degrade performance. */
+/* Default: The blur filter is disabled.*/
+body::before,
+.container-16j22k::before {
+  /* backdrop-filter: blur(45px) saturate(125%); */
+}
+
+/*#########################################################
+##                  End of user options                  ##
+#########################################################*/
+
+-----------------------------
+
+DELETE THIS, THE LINE AND THE FOLLOWING TEXT:
+
+How to use our Colored Templates:
+
+Simply copy the Code above the line and substitute the already existing User Option Code.
+Need further help?
+Contact us via social.interactive@gmx.net or https://discord.io/socialint
