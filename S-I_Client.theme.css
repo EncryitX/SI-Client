@@ -456,7 +456,6 @@ body, button {
 }
 
 .theme-dark .input-cIJ7To:focus {
-  background-color: white;
   border-width: 2px;
   border-color: rgba(var(--accent), 1);
   color: #000;
