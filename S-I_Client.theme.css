@@ -458,7 +458,7 @@ body, button {
 .theme-dark .input-cIJ7To:focus {
   border-width: 2px;
   border-color: rgba(var(--accent), 1);
-  color: #000;
+  color: #fff;
 }
 
 .theme-dark .input-cIJ7To:focus::-webkit-input-placeholder {
