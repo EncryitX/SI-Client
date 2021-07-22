@@ -7656,4 +7656,22 @@ img[src="/assets/bfffd518c76d3f6bc5e96eb52e4ae2cf.svg"] {
 .theme-dark .bf-toolbar .bf-arrow {
   left: 0;
 }
+.attachedBars-tZDmyV{
+  border: 0!important;
+}
+.theme-dark .form-2fGMdU .channelTextArea-rNsIhG{
+  border: 0!important;
+  background-color: #2f3136!important;
+}
+.replyBar-1YLQ2F{
+  padding-top: 11px;;
+}
+button[aria-label="User settings"]{
+  width: 60px;
+  bottom: 0;
+}
+button[aria-label="User settings"]::before{
+  content: "\E713";
+}
+
 /*# sourceMappingURL=SI-Client.theme.css.map */
