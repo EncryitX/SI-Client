@@ -4,6 +4,7 @@ Welcome to the S-I Client Alpha! We are only in a testing phase and we are just 
 Join the Alpha too here:  [Application Form](https://form.jotform.com/211904697044357)
 If there is any Copyright Problem, I will sadly close this Project, even when we made some other updates.
 Thank you
+
 Contact me via social.interactive@gmx.net
 
 ## Description
@@ -43,11 +44,18 @@ Open a ticket in the Suport Category in #ticket.
 By: Encryit (Encryit#9999) [Server Owner Social Interactive](https://discord.io/socialint)
 
 Theme Code copy by [Tako](https://github.com/TakosThings)
+Use with Creative Common License 
 
 Contributioner:
 [Redtyper](https://github.com/bartosz789) (Major Contributioner)
 
 ## Version History
+* 1.1.8
+    * Bugfix: Added Settings Icon (by [Redtyper/Bartosz](https://github.com/bartosz789))
+    * Changed Reply to ... color (theme match) (by [Redtyper/Bartosz](https://github.com/bartosz789))
+* 1.1.7
+    * Small bugs fixed.
+    * Version fix.
 * 1.1.6
     * Button fixed.
     * Other Bugs fixed and updated Invite/Website.
