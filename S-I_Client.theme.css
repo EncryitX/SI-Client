@@ -1,15 +1,15 @@
 /**
  * @name S-I Client Alpha
  * @author Social Interactive
- * @version 1.1.7 Alpha
- * @description Social Interactive Theme (sample Metro for Discord) thanks to Tako.
+ * @version 1.1.8 Alpha
+ * @description A theme made by the Social Interactive Theme
  * @source https://github.com/SocialInteractive/S-I-Client
  * @website https://discord.io/socialint
  * @invite cWfQGPD5fZ
 */
 /*############## Social Interactive Client ################
-## License: CC-BY-NC-SA                                  ##
-## Repo:    https://github.com/TakosThings               ##
+## License: CC-BY-NC-SA (Creative Commons, mixed theme)  ##
+## Repo:    https://github.com/SocialInteractive         ##
 ####################### Third Party #######################
 ## hljs:    https://highlightjs.org                      ##
 ## icons8:  https://icons8.com                           ##
@@ -17,16 +17,16 @@
 #########################################################*/
 /*                 Start of user options                 ##
 ###########################################################
-##   Need any help? Check our Discord Server for help!   ##
-##      Join here now: https://discord.io/socialint      ##
+##     Need any help? Join our Discord Server!           ##
+## Join and create a ticket https://discord.io/socialint ##
 #########################################################*/
 /* Accent Colour */
 /* Description: Change the accent colour. Must be provided in RGB format */
 /* Default: Accent is 'Default Blue'. Link is 'Default Blue'. Voice is 'Turf Green' */
 :root {
-  --accent: 0, 120, 215;
-  --link: 0, 120, 215;
-  --voice: 0, 204, 106;
+  --accent:0, 120, 215;
+  --link:0, 120, 215;
+  --voice:0, 204, 106;
 }
 
 /* Hide Stage Discovery */
@@ -46,8 +46,7 @@
 /* Acrylic background */
 /* Description: Change the background image used to create 'acrylic' effects. */
 /* Default: The default background is a blue/teal/aqua gradient. */
-body,
-.container-16j22k {
+body, .container-16j22k {
   background-image: url(https://i.imgur.com/PoQUA3n.jpg);
 }
 
@@ -55,8 +54,7 @@ body,
 /* Description: Uncomment to enable the blur filter. This may be useful for custom backgrounds. */
 /* Warning: May degrade performance. */
 /* Default: The blur filter is disabled.*/
-body::before,
-.container-16j22k::before {
+body::before, .container-16j22k::before {
   /* backdrop-filter: blur(45px) saturate(125%); */
 }
 
@@ -161,7 +159,7 @@ body, button {
 }
 
 .theme-dark .container-2lgZY8::before, .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .info-1VyQPT::before {
-  content: "S-I Client \aVersion 1.1.7 Alpha (Testing)";
+  content: "S-I Client \aVersion 1.1.8 Alpha";
 }
 
 .theme-dark .container-2lgZY8::before {
@@ -7645,19 +7643,22 @@ img[src="/assets/bfffd518c76d3f6bc5e96eb52e4ae2cf.svg"] {
   background-color: rgba(255, 255, 255, 0.1);
   color: white;
 }
-
-.theme-dark .bf-toolbar {
-  right: unset;
-  left: 0;
-  padding: 10px 20px 15px 30px;
+.attachedBars-tZDmyV{
+  border: 0!important;
+}
+.theme-dark .form-2fGMdU .channelTextArea-rNsIhG{
+  border: 0!important;
+  background-color: #2f3136!important;
+}
+.replyBar-1YLQ2F{
+  padding-top: 11px;;
+}
+button[aria-label="User settings"]{
+  width: 60px;
+  bottom: 0;
+}
+button[aria-label="User settings"]::before{
+  content: "\E713";
 }
 
-.theme-dark .bf-toolbar::before {
-  background: #1f1f1f;
-  border-radius: 4px;
-}
-
-.theme-dark .bf-toolbar .bf-arrow {
-  left: 0;
-}
 /*# sourceMappingURL=SI-Client.theme.css.map */
