@@ -1,8 +1,8 @@
 /**
- * @name S-I Client Alpha
+ * @name SI Client Alpha
  * @author Social Interactive
  * @version 1.1.9 Alpha
- * @description A theme made by the Social Interactive Theme
+ * @description A theme made by the Social Interactive Team.
  * @source https://github.com/SocialInteractive/S-I-Client
  * @website https://discord.io/socialint
  * @invite cWfQGPD5fZ
@@ -846,11 +846,11 @@ textarea {
   color: rgba(255, 255, 255, 0.6);
 }
 .titleBar-AC4pGV .wordmarkWindows-1v0lYD::after {
-  content: "Discord";
+  content: "SI Client Alpha";
   top: 9px;
   left: 12px;
   display: block;
-  position: absolute;
+  position: fixed;
   font-size: 12px;
   font-weight: 400;
   line-height: 15px;
@@ -1126,7 +1126,7 @@ div[class^=bd-].item-PXvHYJ:hover {
 }
 
 .bd-setting-header label[for=minimalMode]::after {
-  content: " S-I Client Alpha: Do not turn this on! ";
+  content: " S-I Client Alpha: Do not turn this on, not compatible! ";
   color: #D02E00;
 }
 
