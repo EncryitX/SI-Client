@@ -1,7 +1,7 @@
 /**
  * @name S-I Client Alpha
  * @author Social Interactive
- * @version 1.1.8 Alpha
+ * @version 1.1.9 Alpha
  * @description A theme made by the Social Interactive Theme
  * @source https://github.com/SocialInteractive/S-I-Client
  * @website https://discord.io/socialint
@@ -159,7 +159,7 @@ body, button {
 }
 
 .theme-dark .container-2lgZY8::before, .theme-dark .layer-3QrUeG[aria-label=USER_SETTINGS] .info-1VyQPT::before {
-  content: "S-I Client \aVersion 1.1.8 Alpha";
+  content: "S-I Client \aVersion 1.1.9 Alpha";
 }
 
 .theme-dark .container-2lgZY8::before {
@@ -1035,7 +1035,7 @@ body, button {
 }
 
 .titleBar-AC4pGV .wordmarkWindows-1v0lYD::after {
-  content: "S-I Alpha Client";
+  content: "S-I Client Alpha";
   top: 12px;
   left: 12px;
   display: block;
