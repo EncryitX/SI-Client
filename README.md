@@ -1,9 +1,12 @@
 # S-I Client (Social Interactive Client)
 
+![serverlogo](https://user-images.githubusercontent.com/72802595/126896093-3f9d040a-1338-441a-a2c6-509f9c199223.gif)
+
+
 Welcome to the S-I Client Alpha! We are only in a testing phase and we are just beginning!
 Join the Alpha too here:  [Application Form](https://form.jotform.com/211904697044357)
 If there is any Copyright Problem, I will sadly close this Project, even when we made some other updates.
-Thank you
+Thank you!
 
 Contact me via social.interactive@gmx.net
 
@@ -74,3 +77,6 @@ Inspiration, code snippets, etc.
 * [Metro-for-Discord](https://github.com/TakosThings/Metro-for-Discord)
 * [Major Helper Redtyper](https://github.com/bartosz789)
 * [Social Interactive](https://discord.io/socialint)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72802595/126896089-d113444e-c1d2-4468-9ff5-4c1b3786e43c.gif)
+
