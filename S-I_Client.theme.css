@@ -1840,3 +1840,7 @@ html.platform-osx .scroller-2TZvBN {
     width: 270px;
     padding: 60px 6px 60px 1px;
 }
+
+.replyBar-1YLQ2F, .threadSuggestionBar-2ufK2Z,.attachedBars-tZDmyV{
+  background-color: var(--channeltextarea-background);
+}
