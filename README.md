@@ -31,9 +31,9 @@ All honour to him. This Theme has been changed in the code!
 * Download [Discord](https://discord.com)
 * [Download and open BetterDiscord](https://betterdiscord.app)
 * Follow the Instructions on the Download.
-* [Download](https://github.com/CloudX713/S-I-Client/archive/refs/heads/main.zip) the theme.
+* [Download](https://github.com/SocialInteractive/SI-Client/releases) the newest version of them theme.
 * Open Discord, go to settings, scroll down to BetterDiscord, go to Themes and press "Open Themes Folder"
-* Paste S-I_Client.theme.css in the folder (if name is S-I_Client.css, change it to S-I_Client.theme.css)
+* Paste SI-Client.theme.css in the folder (if name is SI-Client.css, change it to SI-Client.theme.css)
 * Close the Folder and go back to Discord
 * Activate the Theme
 * Done!
