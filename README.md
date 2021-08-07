@@ -5,8 +5,10 @@
 
 Welcome to the S-I Client Alpha! We are only in a testing phase and we are just beginning!
 Join the Alpha too here:  [Application Form](https://form.jotform.com/211904697044357)
-If there is any Copyright Problem, I will sadly close this Project, even when we made some other updates.
-Thank you!
+
+### New Version soon!
+
+SI Client goes to next level with another modern theme! Stay tuned and join the Server to get notified!
 
 Contact me via social.interactive@gmx.net
 
