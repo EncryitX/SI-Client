@@ -55,6 +55,9 @@ Contributioner:
 [Redtyper](https://github.com/bartosz789) (Major Contributioner)
 
 ## Version History
+* 1.1.9
+    * Bugfixes
+    * 2.0.0 soon with non grey chat background!
 * 1.1.8
     * Bugfix: Added Settings Icon (by [Redtyper/Bartosz](https://github.com/bartosz789))
     * Changed Reply to ... color (theme match) (by [Redtyper/Bartosz](https://github.com/bartosz789))
