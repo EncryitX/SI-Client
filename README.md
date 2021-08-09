@@ -14,9 +14,7 @@ Contact me via social.interactive@gmx.net
 
 ## Description
 
-A copied and changed theme for BetterDiscord.
-**ORIGINAL THEME BY [Tako](https://github.com/TakosThings/Metro-for-Discord)
-All honour to him. This Theme has been changed in the code!
+A simple and customizable theme for BetterDiscord.
 
 ## Getting Started
 
